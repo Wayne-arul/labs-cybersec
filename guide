@@ -1,0 +1,4 @@
+aircrack-ng -w rockyou.txt -b e2:b0:c5:5c:62:aa captureit-01.cap
+
+
+pass --> blackcat10
